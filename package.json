@@ -23,7 +23,7 @@
     "typeface-open-sans": "0.0.75"
   },
   "devDependencies": {
-    "gatsby-transformer-remark": "^2.8.27",
+    "gatsby-transformer-remark": "^5.25.1",
     "prettier": "^1.18.2"
   },
   "keywords": [
